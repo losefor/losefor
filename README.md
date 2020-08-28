@@ -14,11 +14,11 @@ i'm a student at university of thechnology and a MERN stack web devleoper
 # 🌱 what i'm currently learning ... ? 
 - Advanced concepts for Mongodb
 - Advanced concepts for Electron js 
-- working to boost my knowledge about git and github too 
+- Advanced Concepts about git and github and branching 
 
 # what I’m currently working on ...?
-- 7days 7websites challenge to boost my UX and UI knowledge
-- desktop app - video convertor with electron 
+- Desktop app - video convertor with electron 
+- Advanced Concepts with React Native 
 
 # 📫 How to reach me ...?
  you can reach me on 

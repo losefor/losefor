@@ -50,7 +50,9 @@ i'm a student at university of thechnology and a MERN stack web devleoper
 
 ### Coding 
 - **[Codepen](https://codepen.io/)** - it's a fantastic platform for writing web pages as fast as possible which provides fast way to add other libraries and stylesheets.I use Codepen for learning which make it easy on me to start a boilerplate and for experimenting purposes.
+- **[Expo snak](https://snack.expo.io/)** - it's a **codepen** like but for React Native development it's a powerfull online editor for developing android and ios apps with React Native which provides a blilerplate for RN as a start.I use it for experementing and learning purposes 
 - **[VS Code](https://code.visualstudio.com/)** - it's a light text editor which is the main editor that i use for all my programming stuff it has a great wide variety of extentions that make it easier to code and the benifits of snippets that make it easier by not rebating block of codes. 
+
 ### Deployment
 - **[Heroku](https://www.heroku.com)** - i use this amazing platform which make it easy to publish the websites that i build to the public and most of the times i use it to publish my **Next js** web apps and **Node js** servers.
 

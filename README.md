@@ -30,9 +30,9 @@ i'm a student at university of thechnology and a MERN stack web devleoper
      - [ ] advanced animation
      - [ ] making performant animation 
      - [ ] advanced uses of clip-path with plygons 
-     - [ ] advances sudo classes
+     - [x] advances sudo classes
           - [x] advanced uses of sudo classes   
-          - [ ] advanced animation with sudo classes 
+          - [x] advanced animation with sudo classes 
      - [ ] advanced transform concepts
      - [ ] How the CSS works on low level for writing performant code
      - [ ] Learning and writing better code with Sass
@@ -43,7 +43,8 @@ i'm a student at university of thechnology and a MERN stack web devleoper
 
 # what i use for  documentation->design->coding->deployment ? 
 ### Documentation 
-- **[Google docs](https://docs.google.com/)** - I use **google docs** for braing storming for ideas and if i find a good idea i start to write the main features then start to chose the main features for the MVP that I will code. 
+- **[Google docs](https://docs.google.com/)** - I use **google docs** for braing storming for ideas and if i find a good idea i start to write the main features then start to chose the main features for the MVP that I will code.
+- **[Digrams](https://app.diagrams.net/)** / previously Draw.io - it's simple and pwerfull mindmapping app which i use it to transfer the documentation that i wrote with google docs into flowcharts and digrams to make it easier to understand the flow of the process that i will make to develop the product (program/phone app/web app)
 
 ### Design 
 - **[Figma](https://www.figma.com)** - I use **Figma** for wireframing the documentation that i wrote first in the google docs and make the changes as needed then i start  start to bring the design into life through adding details.

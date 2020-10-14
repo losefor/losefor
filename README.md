@@ -28,14 +28,14 @@ i'm a student at university of thechnology and a MERN stack web devleoper
      - [ ] Grid system
      - [x] responsive design for different screen sizes 
      - [ ] advanced animation
-     - [ ] making performant animation 
-     - [ ] advanced uses of clip-path with plygons 
+     - [x] making performant animation 
+     - [x] advanced uses of clip-path with plygons 
      - [x] advances sudo classes
           - [x] advanced uses of sudo classes   
           - [x] advanced animation with sudo classes 
      - [ ] advanced transform concepts
      - [ ] How the CSS works on low level for writing performant code
-     - [ ] Learning and writing better code with Sass
+     - [x] Learning and writing better code with Sass
      
      
 # what I’m currently working on ...?

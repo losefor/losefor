@@ -33,7 +33,7 @@ i'm a student at university of thechnology and a MERN stack web devleoper
      - [x] advances sudo classes
           - [x] advanced uses of sudo classes   
           - [x] advanced animation with sudo classes 
-     - [ ] advanced transform concepts
+     - [x] advanced transform concepts
      - [ ] How the CSS works on low level for writing performant code
      - [x] Learning and writing better code with Sass
      

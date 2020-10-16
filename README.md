@@ -26,15 +26,15 @@ i'm a student at university of thechnology and a MERN stack web devleoper
 - Advance CSS and Sass concepts
      - [x] flex box 
      - [ ] Grid system
-     - [x] responsive design for different screen sizes 
-     - [ ] advanced animation
+     - [x] advanced responsive design for different screen sizes 
+     - [x] advanced animation
      - [x] making performant animation 
      - [x] advanced uses of clip-path with plygons 
      - [x] advances sudo classes
           - [x] advanced uses of sudo classes   
           - [x] advanced animation with sudo classes 
      - [x] advanced transform concepts
-     - [ ] How the CSS works on low level for writing performant code
+     - [x] How the CSS works on low level for writing performant code
      - [x] Learning and writing better code with Sass
      
      

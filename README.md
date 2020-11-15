@@ -18,25 +18,14 @@ i'm a student at university of thechnology and a MERN stack web devleoper
      - [x] video conversion with ffmpeg
      - [x] send phone messages 
      - [x] geolocation with mongo db 
-     - [ ] sending emails
+     - [x] sending emails
      - [ ] Photos resizing and uploading
      - [ ] advanced Authentication concepts
      - [ ] Payments with stripe 
      - [ ] ssr with pug 
  
 - Advance CSS and Sass concepts
-     - [x] flex box 
      - [ ] Grid system
-     - [x] advanced responsive design for different screen sizes 
-     - [x] advanced animation
-     - [x] making performant animation 
-     - [x] advanced uses of clip-path with plygons 
-     - [x] advances sudo classes
-          - [x] advanced uses of sudo classes   
-          - [x] advanced animation with sudo classes 
-     - [x] advanced transform concepts
-     - [x] How the CSS works on low level for writing performant code
-     - [x] Learning and writing better code with Sass
      
      
 # what I’m currently working on ...?
@@ -48,6 +37,7 @@ i'm a student at university of thechnology and a MERN stack web devleoper
 - **[Digrams](https://app.diagrams.net/)** / previously Draw.io - it's simple and pwerfull mindmapping app which i use it to transfer the documentation that i wrote with google docs into flowcharts and digrams to make it easier to understand the flow of the process that i will make to develop the product (program/phone app/web app)
 
 ### Design 
+- **Pencile and paper** - Well don't judge me i like to draw so i enjoy wireframing and figure out the user flow throw designing mockups like with arrows to show the flow of the app that i'm working on and what happen with interactions 
 - **[Figma](https://www.figma.com)** - I use **Figma** for wireframing the documentation that i wrote first in the google docs and make the changes as needed then i start  start to bring the design into life through adding details.
 
 ### Coding 

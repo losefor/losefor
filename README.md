@@ -15,17 +15,7 @@ i'm a student at university of thechnology and a MERN stack web devleoper
 
 # 🌱 what i'm currently learning ... ? 
 - Advance Node js concepts
-     - [x] video conversion with ffmpeg
-     - [x] send phone messages 
-     - [x] geolocation with mongo db 
-     - [x] sending emails
-     - [ ] Photos resizing and uploading
-     - [ ] advanced Authentication concepts
-     - [ ] Payments with stripe 
-     - [ ] ssr with pug 
- 
-- Advance CSS and Sass concepts
-     - [ ] Grid system
+     - [ ] Websokets
      
      
 # what I’m currently working on ...?

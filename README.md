@@ -65,14 +65,13 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/iampavangandhi/Gitwar"><b>our-sms</b></a></td>
+	<td><a href="https://github.com/iampavangandhi/Gitwar"><b>our-sms</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/losefor/our-sms?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/losefor/our-sms?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/losefor/our-sms?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/losefor/our-sms?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/losefor/our-sms?style=flat-square"/></td>
       </tr>
-
     </tbody>
   </table>
   <br />

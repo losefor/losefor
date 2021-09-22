@@ -8,6 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things+;%2B4+yeas+of+programming+experience.;Full-stack+web+and+mobile+developer.&center=true&width=500&height=45"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=losefor)
+
 # my stack ...
 
 

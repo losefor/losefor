@@ -1,11 +1,11 @@
 <h3 align="center">
-  Welcome to Losefor's profile!
+  Welcome to MPKs profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things+;%2B4+yeas+of+programming+experience.;Full-stack+web+and+mobile+developer.&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Always+learning+new+things+;%2B6+yeas+of+programming+experience.;Full-stack+web+and+mobile+developer.&center=true&width=500&height=45"></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=losefor)

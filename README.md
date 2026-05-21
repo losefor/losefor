@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+engineer+%E2%80%94+Node.js%2C+.NET%2C+React%2C+AWS;5%2B+years+building+production+systems;Always+learning+new+things&center=true&width=500&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-stack+engineer+%E2%80%94+Node.js%2C+React%2C+AWS;5%2B+years+building+production+systems;Always+learning+new+things&center=true&width=500&height=45"></a>
 </p>
 
 <p align="center">
